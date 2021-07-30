@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cockroach_Ally", "Cockroach_Ally.csproj", "{0CA69009-6E63-4C5C-985C-6337BD55B9DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA69009-6E63-4C5C-985C-6337BD55B9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA69009-6E63-4C5C-985C-6337BD55B9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA69009-6E63-4C5C-985C-6337BD55B9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA69009-6E63-4C5C-985C-6337BD55B9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BA3C4AC-715B-4E37-B2A4-78D18A12DE18}
+	EndGlobalSection
+EndGlobal
